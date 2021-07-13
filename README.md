@@ -29,4 +29,8 @@ SPeendtest测速表现
 
 测试时间：晚上19点57分
 
-<img class="docsimg" src="https://i.loli.net/2021/07/13/7FnIxYRD8vAih3P.jpg">
+<img class="docsimg" src="https://i.loli.net/2021/07/13/7FnIxYRD8vAih3P.jpg" style="height: 500px;">
+
+可以看到4K视频基本能够跑到六万多kb/s，基本来说三万多kb/s就足够看4K视频了。能跑到六万多kb/s，可见疯兔加速器梯子在速度的表现十分优异。
+
+以上就是所有测评。
